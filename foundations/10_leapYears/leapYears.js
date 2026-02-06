@@ -18,7 +18,5 @@ const leapYears = function (year) {
   return false;
 };
 
-module.exports = leapYears;
-
 // Do not edit below this line
 module.exports = leapYears;
